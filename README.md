@@ -1,3 +1,3 @@
-# Project Title 
+# Аггрегатор IT мероприятий
 
-Place there all basic information needed for anyone to get started with your repository
+Аггрегатор IT мероприятий - рекомендательная система для IT-специалистов, которая на основе индивидуальных интеремов пользователя представляем ему список интересных мероприятий.
